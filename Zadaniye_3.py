@@ -29,5 +29,4 @@ line(
     (cross_start_x + cross_size / 2, line_start_y + cross_size / 2)
 )
 
-
-saveImage("dz3.pdf")
+saveImage ("dz3.pdf")
