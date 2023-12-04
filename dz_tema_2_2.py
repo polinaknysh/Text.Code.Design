@@ -61,4 +61,4 @@ for rule in rules:
 
 # выйдем из цикла (начнём писать
 # без отступа) и сохраним pdf
-saveImage("dino_2_zanytie.pdf")
+saveImage("dz_tema_2_2.pdf")

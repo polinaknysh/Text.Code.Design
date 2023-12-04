@@ -1,4 +1,5 @@
 from drawbot_skia.drawbot import rect, oval, newPage, saveImage, stroke, fill, strokeWidth, line 
+
 rules = [1, 0, 1, 0, 2, 0, "динозавр"] * 20
 
 w, h = 742.5, 1050
@@ -55,4 +56,4 @@ for rule in rules:
 
 # выйдем из цикла (начнём писать
 # без отступа) и сохраним pdf
-saveImage("summary_2_example.pdf")
+saveImage("dz_tema_2_1.pdf")
